@@ -1,5 +1,5 @@
 [workspace]
-members = ["host"]
+members = [ "acme","host"]
 # "cget/test_cget",
 resolver = "2"
 
