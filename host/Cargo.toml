@@ -7,5 +7,6 @@ edition = "2021"
 aok = "0.1.15"
 async-trait = "0.1.83"
 http = "1.1.0"
+loginit = "0.1.13"
 pingora = { version = "0.4.0", features = ["lb"] }
 tracing = "0.1.40"
